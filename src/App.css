@@ -1,3 +1,8 @@
+body{
+   background-image: url('https://d33wubrfki0l68.cloudfront.net/19c79f283e6c9440fb84aa1b9581cde724d1c39d/39c1d/blog_images/how-to-add-a-gradient-overlay-to-a-background-image-using-just-css-and-html-uru01140x600.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+}
 .App {
   text-align: center;
 }
